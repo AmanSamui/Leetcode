@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/AmanSamui/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSamui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmanSamui/Leetcode/tree/master/0027-remove-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSamui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmanSamui/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
