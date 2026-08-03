@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/AmanSamui/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/AmanSamui/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanSamui/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
