@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/AmanSamui/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanSamui/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmanSamui/Leetcode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
