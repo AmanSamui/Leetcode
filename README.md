@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AmanSamui/Leetcode/tree/master/0189-rotate-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
