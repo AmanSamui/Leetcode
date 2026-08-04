@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AmanSamui/Leetcode/tree/master/0001-two-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
