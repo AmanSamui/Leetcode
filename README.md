@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Game Theory
 |  |
