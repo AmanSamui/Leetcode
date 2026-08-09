@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AmanSamui/Leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AmanSamui/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AmanSamui/Leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSamui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AmanSamui/Leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 <!---LeetCode Topics End-->
