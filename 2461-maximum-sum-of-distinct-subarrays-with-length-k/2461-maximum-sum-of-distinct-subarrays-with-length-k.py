@@ -1,28 +1,29 @@
 class Solution:
-    def maximumSubarraySum(self, nums, k):
-        freq_map = {}
-        left = 0
-        window_sum = 0
-        max_sum = 0
+    def maximumSubarraySum(self, nums: List[int], k: int) -> int:
+        maxi=0
+        # count= defaultdict(int)
+        fre_map={}
+        cur_sum=0
+        l=0
+        for r in range(len(nums)):
+            cur_sum+=nums[r]
+            fre_map[nums[r]] =fre_map.get(nums[r],0)+1
 
-        for right in range(len(nums)):
+            if r-l+1>k:
+                fre_map[nums[l]]-=1
+                if fre_map[nums[l]]==0:
+                    fre_map.pop(nums[l])
+                cur_sum-=nums[l]
+                l+=1
 
-            # Add current element
-            freq_map[nums[right]] = freq_map.get(nums[right], 0) + 1
-            window_sum += nums[right]
+            if len(fre_map)==k and r-l+1==k:
+                maxi=max(maxi,cur_sum)
 
-            # Keep window size <= k
-            if right - left + 1 > k:
-                freq_map[nums[left]] -= 1
-                window_sum -= nums[left]
+        return maxi
 
-                if freq_map[nums[left]] == 0:
-                    del freq_map[nums[left]]
 
-                left += 1
+obj=Solution()
 
-            # Window has size k and all elements are distinct
-            if right - left + 1 == k and len(freq_map) == k:
-                max_sum = max(max_sum, window_sum)
-
-        return max_sum
+nums = [1,5,4,2,9,9,9]
+k=3
+print(obj.maximumSubarraySum(nums,k))
