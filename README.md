@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AmanSamui/Leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/AmanSamui/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSamui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSamui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
