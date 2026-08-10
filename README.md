@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/AmanSamui/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanSamui/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/AmanSamui/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSamui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AmanSamui/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
