@@ -1,5 +1,3 @@
-# from typing import List
-
 class Solution:
     def findRepeatedDnaSequences(self, s: str) ->List[str]:
         # print("File is running")
@@ -7,17 +5,10 @@ class Solution:
         result=set()
         i=0
         n=len(s)
-        while i<n-9:
+        for i in range(n-9):
             # print("i:",i)
             sequence=s[i:i+10]
             if sequence in seen:
                 result.add(sequence)
-            else:
-                seen.add(sequence)   
-            i+=1
+            seen.add(sequence)      
         return list(result)
-
-obj=Solution()
-s="AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
-# s = "AAAAAAAAAAAAA"
-print(obj.findRepeatedDnaSequences(s))
