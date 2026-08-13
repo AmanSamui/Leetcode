@@ -3,7 +3,7 @@
 class Solution:
     def findRepeatedDnaSequences(self, s: str) ->List[str]:
         # print("File is running")
-        seen=dict()
+        seen=set()
         result=set()
         i=0
         n=len(s)
@@ -13,11 +13,11 @@ class Solution:
             if sequence in seen:
                 result.add(sequence)
             else:
-                seen[sequence]=seen.get(sequence,0)+1   
+                seen.add(sequence)   
             i+=1
         return list(result)
 
 obj=Solution()
-# s="AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
-s = "AAAAAAAAAAAAA"
+s="AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+# s = "AAAAAAAAAAAAA"
 print(obj.findRepeatedDnaSequences(s))
