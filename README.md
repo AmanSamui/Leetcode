@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/AmanSamui/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AmanSamui/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanSamui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanSamui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanSamui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AmanSamui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AmanSamui/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AmanSamui/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanSamui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmanSamui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanSamui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanSamui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |
