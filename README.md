@@ -21,6 +21,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2942-find-words-containing-character](https://github.com/AmanSamui/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/AmanSamui/Leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3731-find-missing-elements](https://github.com/AmanSamui/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/AmanSamui/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AmanSamui/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/AmanSamui/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2942-find-words-containing-character](https://github.com/AmanSamui/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
