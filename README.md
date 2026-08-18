@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/AmanSamui/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanSamui/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanSamui/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/AmanSamui/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AmanSamui/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSamui/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2942-find-words-containing-character](https://github.com/AmanSamui/Leetcode/tree/master/2942-find-words-containing-character) |
