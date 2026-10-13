@@ -1,22 +1,11 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        n=len(nums)
-        # i=0;
-        for i in range(0,n-1):
-            for j in range(1,n):
-                if(nums[i]+nums[j]==target and i!=j):
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                if nums[i]+nums[j]==target:
                     return i,j
-                    break
-            
 
-
-
-obj=Solution()
-nums = [3,2,3]
-result=obj.twoSum(nums,6)
-print(result)
+result=Solution()
+nums = [3,3]
+target = 6
+print(result.twoSum(nums,target))
